@@ -9,5 +9,5 @@ permalink: /docs/
 Page for all the documentations and best practices and tips related to cg/vfx.
 
 ## Documentation
-- [Arnold Rendering Overview](/docs/Arnold-Rendering-Overview.md)
-
+- [Arnold Rendering Overview](/Arnold-Rendering-Overview.md)
+- [Render Setting Tips](/Render_Setting_Tips.md)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Arnold Rendering Overview — Key Concepts for Artists"
+title: "CG Diaries — Arnold Rendering Overview (Key Concepts)"
 permalink: /docs/arnold-render-overview/
 ---
 

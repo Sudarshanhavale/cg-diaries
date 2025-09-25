@@ -10,15 +10,14 @@
 
 | Section                            | Link |
 |------------------------------------|------|
-| 📈 [Documentation](/docs/index.md) |
-| 👤 [About Me](/about.md)           |
+| ✍️ [Blogs]()         | 
+| 📑 [Documentation](/docs/index.md) | 
 | ✉ [Contact](/contact.md)           |
-
 ---
 
 ## 📚 Spotlight: What I Share
 
-- 📈 **Documentation & Best Practices** — Knowledge base, Best Practices, Tips.
+- 📑 **Documentation & Best Practices** — Knowledge base, Best Practices, Tips.
 - ⚙ **Procedural Tools** — Custom tools and pipeline helpers.
 ---
 
