@@ -10,4 +10,4 @@ Page for all the documentations and best practices and tips related to cg/vfx.
 
 ## Documentation
 - [Arnold Rendering Overview](/docs/Arnold-Rendering-Overview.md)
-- [Render Setting Tips](/docs/Render_Setting_Tips.md)
+- [Render Setting Tips](/docs/Render-Setting-Tips.md)
