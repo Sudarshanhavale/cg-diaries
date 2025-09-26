@@ -58,6 +58,11 @@ It's recommended to use adaptive subdivision all the time if you are going with 
 
 `Always check render **log/stats.html**. If subdivision is taking too much time, lower it here.` 
 
+## Low Light Threshold
+`Adding details...`
+
+
+
 ---
 
 ## [Per-Object Adaptive Subdivision/Adaptive Metric](https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_polygons_ac_subdivision_settings_html)
