@@ -65,8 +65,12 @@ Adding details...
 ### Low Light Threshold
 ```
 
-
-
+## Memory Management
+### Use Tiled EXR
+Stores the image in small blocks (tiles) as buckets finish, instead of holding the whole frame in RAM.
+* Lowers peak memory usage during heavy renders (all AOVs don’t need to stay in memory).
+* Enables partial image previews and efficient reading in Nuke.
+* Trade-off: slightly higher disk I/O — ensure storage performance isn’t a bottleneck in your case.
 ---
 
 ## [Per-Object Adaptive Subdivision/Adaptive Metric](https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_user_guide_ac_polygons_ac_subdivision_settings_html)
