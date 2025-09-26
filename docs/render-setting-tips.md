@@ -58,8 +58,12 @@ It's recommended to use adaptive subdivision all the time if you are going with 
 
 `Always check render **log/stats.html**. If subdivision is taking too much time, lower it here.` 
 
-## Low Light Threshold
-`Adding details...`
+## Lights
+```
+Adding details...
+### Global Lights
+### Low Light Threshold
+```
 
 
 
